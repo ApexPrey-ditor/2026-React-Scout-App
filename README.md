@@ -1,3 +1,5 @@
+# use the mobile hotfix branch for the standalone fully offline index.html file
+
 # FRC 2026 Scouting App 
 Your scouting app folder should look like this:
 
