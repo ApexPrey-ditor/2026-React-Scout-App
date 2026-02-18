@@ -6,7 +6,7 @@
 
 ### Android:
 1. Open `index.html` in Chrome
-2. Tap menu -> "Add to Home screen"
+2. (OPTIONAL) Tap menu -> "Add to Home screen" so you can access it via the home screen instead of via files
 
 
 list of features
